@@ -1,0 +1,18 @@
+import numpy as np
+# a = np.array([1,2,3,4,5])
+# print(a)
+# b = np.array([[1,2,3,4,5],[6,7,8,9,10]])
+# print(b)
+# # 2d array - matrix
+# c = np.array([1,2,3,4],dtype = np.float64)
+# print(c)
+# # \n.arange
+# np.arange(1, 11)  act as range function in python
+# d = np.arange(1,11,2)
+# print(d)
+# e = np.arange(1,11).reshape(5,2)
+# print(e) reshare for rows and colums
+# f = np.linspace(-10,10,10)
+# print(f)
+# g= np.identity(4)
+# print(g)
